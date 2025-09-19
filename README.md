@@ -29,7 +29,7 @@
 
 ```javascript
 const ferd = {
-    name: "Ferd",
+    name: "Cuong",
     location: "Viet Nam 🇻🇳",
     role: "Frontend Developer",
     currentFocus: "Building amazing web experiences",
