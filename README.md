@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi+👋%2C+I'm+Ferd;Passionate+Frontend+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi+👋%2C+I'm+Cường;Passionate+Frontend+Developer)](https://git.io/typing-svg)
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=4ECDC4&center=true&vCenter=true&width=435&lines=From+Viet+Nam+🇻🇳;React+%7C+Next.js+%7C+TailwindCSS;Turning+ideas+into+reality)](https://git.io/typing-svg)
 
@@ -28,7 +28,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```javascript
-const ferd = {
+const Cuong = {
     name: "Cuong",
     location: "Viet Nam 🇻🇳",
     role: "Frontend Developer",
